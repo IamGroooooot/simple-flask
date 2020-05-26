@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "3"
+    return "2"
